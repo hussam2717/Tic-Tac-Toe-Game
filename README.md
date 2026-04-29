@@ -14,3 +14,8 @@ Clean and modern UI design
 │── index.html
 │── style.css
 │── script.js
+
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript
