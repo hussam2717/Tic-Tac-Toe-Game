@@ -32,3 +32,5 @@ Add AI (Play vs Computer)
 Add score tracking
 Add sound effects
 Mobile responsiveness improvements
+
+⭐ If you like this project, give it a star!
