@@ -19,3 +19,10 @@ Clean and modern UI design
 HTML5
 CSS3
 JavaScript
+
+🎯 How to Play
+Player 1 uses X
+Player 2 uses O
+Players take turns clicking empty boxes
+First player to get 3 in a row (horizontal, vertical, or diagonal) wins
+Click Reset to play again
