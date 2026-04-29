@@ -9,3 +9,8 @@ Turn indicator
 Win detection logic
 Reset button to restart the game
 Clean and modern UI design
+
+📂 Project Structure
+│── index.html
+│── style.css
+│── script.js
