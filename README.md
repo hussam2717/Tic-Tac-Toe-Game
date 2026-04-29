@@ -26,3 +26,9 @@ Player 2 uses O
 Players take turns clicking empty boxes
 First player to get 3 in a row (horizontal, vertical, or diagonal) wins
 Click Reset to play again
+
+📌 Future Improvements
+Add AI (Play vs Computer)
+Add score tracking
+Add sound effects
+Mobile responsiveness improvements
